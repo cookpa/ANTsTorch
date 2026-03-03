@@ -1,4 +1,4 @@
-FROM antsx/antstorch:latest
+FROM cookpa/antstorch:latest
 
 USER root
 WORKDIR /home/antstorchuser
